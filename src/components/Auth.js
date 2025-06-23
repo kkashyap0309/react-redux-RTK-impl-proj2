@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { authSliceActions } from "../store/index.js";
+import { authSliceActions } from "../store/auth-slice.js";
 import classes from "./Auth.module.css";
 import { useDispatch } from "react-redux";
 
