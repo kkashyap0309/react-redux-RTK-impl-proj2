@@ -23,7 +23,7 @@ const Auth = () => {
     if (
       email &&
       password &&
-      email === "kunal@gmail.com" &&
+      email === "abc@gmail.com" &&
       password === "123456"
     ) {
       const user = email.substring(0, email.indexOf("@"));
